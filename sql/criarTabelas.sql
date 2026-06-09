@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS times (
+    id   INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome TEXT NOT NULL UNIQUE
+);
+
+CREATE TABLE IF NOT EXISTS partidas (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    fase        TEXT NOT NULL,
+    time1       TEXT NOT NULL,
+    time2       TEXT NOT NULL,
+    golsTime1   INTEGER NOT NULL,
+    golsTime2   INTEGER NOT NULL,
+    prorrogacao INTEGER NOT NULL DEFAULT 0,
+    penaltis    INTEGER NOT NULL DEFAULT 0,
+    vencedor    TEXT NOT NULL
+);

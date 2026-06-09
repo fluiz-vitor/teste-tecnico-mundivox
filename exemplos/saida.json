@@ -1,0 +1,155 @@
+{
+  "campeao": "Holanda",
+  "partidas": [
+    {
+      "fase": "Oitavas de Final",
+      "time1": "Brasil",
+      "time2": "Tunisia",
+      "golsTime1": 9,
+      "golsTime2": 4,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Brasil"
+    },
+    {
+      "fase": "Oitavas de Final",
+      "time1": "Argentina",
+      "time2": "Mexico",
+      "golsTime1": 8,
+      "golsTime2": 1,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Argentina"
+    },
+    {
+      "fase": "Oitavas de Final",
+      "time1": "Portugal",
+      "time2": "Senegal",
+      "golsTime1": 0,
+      "golsTime2": 6,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Senegal"
+    },
+    {
+      "fase": "Oitavas de Final",
+      "time1": "Alemanha",
+      "time2": "Espanha",
+      "golsTime1": 8,
+      "golsTime2": 3,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Alemanha"
+    },
+    {
+      "fase": "Oitavas de Final",
+      "time1": "França",
+      "time2": "Croacia",
+      "golsTime1": 7,
+      "golsTime2": 2,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "França"
+    },
+    {
+      "fase": "Oitavas de Final",
+      "time1": "Holanda",
+      "time2": "Suécia",
+      "golsTime1": 10,
+      "golsTime2": 6,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Holanda"
+    },
+    {
+      "fase": "Oitavas de Final",
+      "time1": "Inglaterra",
+      "time2": "Estados Unidos",
+      "golsTime1": 0,
+      "golsTime2": 1,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Estados Unidos"
+    },
+    {
+      "fase": "Oitavas de Final",
+      "time1": "Itália",
+      "time2": "Bélgica",
+      "golsTime1": 1,
+      "golsTime2": 4,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Bélgica"
+    },
+    {
+      "fase": "Quartas de Final",
+      "time1": "Brasil",
+      "time2": "Argentina",
+      "golsTime1": 5,
+      "golsTime2": 3,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Brasil"
+    },
+    {
+      "fase": "Quartas de Final",
+      "time1": "Senegal",
+      "time2": "Alemanha",
+      "golsTime1": 9,
+      "golsTime2": 5,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Senegal"
+    },
+    {
+      "fase": "Quartas de Final",
+      "time1": "França",
+      "time2": "Holanda",
+      "golsTime1": 4,
+      "golsTime2": 7,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Holanda"
+    },
+    {
+      "fase": "Quartas de Final",
+      "time1": "Estados Unidos",
+      "time2": "Bélgica",
+      "golsTime1": 1,
+      "golsTime2": 6,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Bélgica"
+    },
+    {
+      "fase": "Semi Final",
+      "time1": "Brasil",
+      "time2": "Senegal",
+      "golsTime1": 6,
+      "golsTime2": 5,
+      "prorrogacao": true,
+      "penaltis": false,
+      "vencedor": "Brasil"
+    },
+    {
+      "fase": "Semi Final",
+      "time1": "Holanda",
+      "time2": "Bélgica",
+      "golsTime1": 8,
+      "golsTime2": 6,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Holanda"
+    },
+    {
+      "fase": "Final",
+      "time1": "Brasil",
+      "time2": "Holanda",
+      "golsTime1": 0,
+      "golsTime2": 9,
+      "prorrogacao": false,
+      "penaltis": false,
+      "vencedor": "Holanda"
+    }
+  ]
+}
